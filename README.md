@@ -1,8 +1,8 @@
-#**Rediseñando la experiencia de Tus Finanzas**  
+# **Rediseñando la experiencia de Tus Finanzas**  
 
 Tus Finanzas es una aplicación móvil para visualizar gastos mensuales y fomentar el ahorro. 
 
-##**Datos existentes de Tus Finanzas** 
+## **Datos existentes de Tus Finanzas** 
 
 * Crearon un producto desde cero en lugar de modificar la aplicación actual de banca móvil.
 
@@ -30,11 +30,11 @@ Como consultora líder fuí responsable de la investigación, planificación, id
 
 Además de hacer el ejercicio empático de comprender al usuario y a nuestro cliente, siempre se pensó quiénes son y qué necesitan.
 
-##**Conociendo a nuestro cliente**
+## **Conociendo a nuestro cliente**
 
 Es una institución financiera privada con importante presencia en México que ofrece una amplia variedad de productos y servicios financieros, su propósito es "Poner al alcance de todos las oportunidades de esta nueva era".
 
-###**Objetivos**
+### **Objetivos**
 
 * Generar un engagement para que a través de nuestra app puedan confiar en nosotros para adquirir más productos o solo ser el único banco que les proporcione los servicios financieros.
 
@@ -42,7 +42,7 @@ Es una institución financiera privada con importante presencia en México que o
 
 * Favorecer la educación financiera para que puedan tomar decisiones informadas y con ello favorecer ahorradores consistentes y deudores responsables.
 
-##**Entendimiento del Problema**
+## **Entendimiento del Problema**
 
 Fase inicial de investigación y análisis.
 
